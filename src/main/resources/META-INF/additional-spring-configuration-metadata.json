@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "alerthub.import.clickup.path",
+  "type": "java.lang.String",
+  "description": "A description for 'alerthub.import.clickup.path'"
+}]}
