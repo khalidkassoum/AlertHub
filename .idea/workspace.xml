@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="164b6cac-e26e-44bf-8a6f-00f199c47d01" name="Changes" comment="Initial push of logger service&#10;Initial push of Processor microservice">
+      <change beforePath="$PROJECT_DIR$/Processor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/src/main/java/com/example/logerr/beans/LogEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/src/main/java/com/example/logerr/beans/LoggerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/src/main/java/com/example/logerr/beans/consumer/KafkaLogConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/src/main/java/com/example/logerr/beans/controller/LogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/src/main/java/com/example/logerr/beans/repository/LogRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/src/main/java/com/example/logerr/beans/service/LogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logerr/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;khalidkassoum&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/khalidkassoum/AlertHub.git&quot;,
+    &quot;accountId&quot;: &quot;97a1fa00-961b-4efb-8d4b-7540f8f72500&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2w5Ey3eRpAFAIMm6CrDTT6I2Ecy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LoggerApplication.executor": "Run",
+    "Application.ProcessorApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "processor-service",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Owner/Desktop/Processor"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ProcessorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.processor.beans.ProcessorApplication" />
+      <module name="processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.processor.beans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProcessorApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="164b6cac-e26e-44bf-8a6f-00f199c47d01" name="Changes" comment="" />
+      <created>1745323285886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745323285886</updated>
+    </task>
+    <task id="LOCAL‎-00001" summary="Initial push of logger service&#10;Initial push of Processor microservice">
+      <option name="closed" value="true" />
+      <created>1745325461190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1745325461190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial push of logger service&#10;Initial push of Processor microservice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial push of logger service&#10;Initial push of Processor microservice" />
+  </component>
+</project>
