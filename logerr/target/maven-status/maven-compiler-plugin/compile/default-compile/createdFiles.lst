@@ -1,6 +1,0 @@
-com\example\logerr\beans\LogEntry.class
-com\example\logerr\beans\LoggerApplication.class
-com\example\logerr\beans\repository\LogRepository.class
-com\example\logerr\beans\controller\LogController.class
-com\example\logerr\beans\service\LogService.class
-com\example\logerr\beans\consumer\KafkaLogConsumer.class
